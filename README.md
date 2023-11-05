@@ -155,7 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Mduduzi Buthelezi - [Github](https://github.com/MduduziSB)
-shammah Njomo - [Github](https://github.com/exclud)
+Shammah Njomo - [Github](https://github.com/exclud)
 
 ## License
 Public Domain. No copy write protection. 
